@@ -10,3 +10,5 @@
 
 ### 專案檔案說明
 - `Turbofan_RUL_Prediction.ipynb`：模型訓練 Notebook
+
+Link to DataSet: https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
